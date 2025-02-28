@@ -1,35 +1,23 @@
 Learning C++ and Practicing LeetCode
 
-About This Repository
+Overview
 
-This repository is dedicated to my journey of learning C++ and solving coding challenges on LeetCode. The goal is to strengthen my problem-solving skills, improve my C++ proficiency, and prepare for technical interviews.
+This repository documents my journey of mastering C++ and tackling coding challenges on LeetCode. The aim is to enhance problem-solving abilities, deepen C++ knowledge, and prepare for technical interviews.
 
-Structure
+Repository Structure
 
-The repository is organized as follows:
+📌 Basics/ – Core C++ concepts including syntax, data structures, STL, and OOP.
 
-Basics/ – Fundamental C++ concepts (syntax, data structures, STL, OOP, etc.)
+🚀 LeetCode/ – Solutions to LeetCode problems, categorized by difficulty:
 
-LeetCode/ – Solutions to LeetCode problems, categorized by difficulty
+🟢 Easy/
 
-Easy/
+🟡 Medium/
 
-Medium/
+🔴 Hard/
 
-Hard/
+🛠️ Projects/ – Small projects to apply and reinforce C++ concepts.
 
-Projects/ – Small C++ projects to reinforce learning
+Key Topics Covered
 
-Topics Covered
-
-C++ Fundamentals (variables, loops, functions, pointers, etc.)
-
-Object-Oriented Programming (OOP)
-
-Data Structures and Algorithms
-
-Standard Template Library (STL)
-
-Competitive Programming Techniques
-
-LeetCode problem-solving strategies
+✅ C++ Fundamentals (variables, loops, functions, pointers, etc.)✅ Object-Oriented Programming (OOP)✅ Data Structures & Algorithms✅ Standard Template Library (STL)✅ Competitive Programming Techniques✅ LeetCode Problem-Solving Strategies
