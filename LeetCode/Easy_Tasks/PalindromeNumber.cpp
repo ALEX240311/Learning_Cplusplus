@@ -27,4 +27,4 @@ int main(){
     std::cout << sol.isPalindrome(121) << std::endl; // true
     std::cout << sol.isPalindrome(-121) << std::endl; // false
     std::cout << sol.isPalindrome(10) << std::endl; // false
-}
+}   
